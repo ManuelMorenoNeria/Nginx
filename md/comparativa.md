@@ -25,3 +25,5 @@
 
 - Apache: Problemas de escalabilidad.
 - Nginx: Alta concurrencia, escalabilidad horizontal.
+
+![img3](/img/nginx2.jpg)
