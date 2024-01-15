@@ -1,2 +1,2 @@
 # Nginx
-[img1]!(/img/nginx.png)
+![img1](/img/nginx.png)
