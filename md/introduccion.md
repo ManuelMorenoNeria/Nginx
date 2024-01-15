@@ -5,4 +5,4 @@ Nginx, pronunciado "engine x", es un servidor web y proxy inverso que destaca po
 - Mayor seguridad al actuar como barrera protectora frente a amenazas comunes.
 - Facilita la gestión de múltiples servidores y servicios web.
   
-![img2]!(/img/nginx1.jpeg)
+![img2](/img/nginx1.jpeg)
