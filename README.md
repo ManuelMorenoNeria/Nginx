@@ -6,4 +6,6 @@
 
 [3. Instalación](/md/instalacion.md)
 
-[4. Casos prácticos](/md/casos.md)
+[4. Balanceo de cargas con Nginx](/md/balanceo.md)
+
+[5. Casos prácticos](/md/casos.md)
